@@ -1,4 +1,4 @@
-ine-Tuning GPT Models with OpenAI API
+Fine-Tuning GPT Models with OpenAI API
 
 This project demonstrates how to fine-tune OpenAI’s GPT models (e.g. GPT-4, GPT-3.5-Turbo) to create a customized conversational AI system. The goal is to adapt a base GPT model to a specific domain or style by training it on curated examples in JSONL format.
 
